@@ -46,7 +46,7 @@
 
 ## 📷️ Visual Results
 
-We provide evaluation code ([Python Code](https://github.com/guanqiyuan/WeatherBench/blob/main/evaluation.py)) to assess PSNR, SSIM, and LPIPS results. You need to set the parameters `--generated_images_path`, `--target_path`, and `--Score_save_path`.
+We provide evaluation code ([Python Code](https://github.com/ncfjd/SmokeBench/blob/main/evaluation.py)) to assess PSNR, SSIM, and LPIPS results. You need to set the parameters `--generated_images_path`, `--target_path`, and `--Score_save_path`.
 
 > If WeatherBench is helpful for you, please help star the GitHub Repo. Thanks!
 >

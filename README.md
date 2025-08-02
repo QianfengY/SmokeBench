@@ -1,8 +1,3 @@
-
-## Download
- [Google Drive](https://drive.google.com/file/d/1NfusIRKwB9el2TpD2xYMOB1fIxPf8PW8/view?usp=drive_link) / [Baidu Netdisk]( https://pan.baidu.com/s/15mE9RGq8PgkD5WVlidSvfw) (refs) 
-
-
 #  <center> 🔥 SmokeBench: A Real-World Dataset for Surveillance Image Desmoking in Early-Stage Fire Scenes  [ACM MM 2025 Datasets Track]
 
 <!-- 
@@ -27,19 +22,19 @@
 ---
 
 ## :hammer: Dataset pipeline
-![image](https://github.com/guanqiyuan/WeatherIR/blob/main/figs/data_pipeline.jpg)
+![image](https://github.com/ncfjd/SmokeBench/blob/main/pipeline_diagram.png)
 
 ---
 
 ## 🔎 Illustration of the WeatherBench
-![image](https://github.com/guanqiyuan/WeatherBench/blob/main/figs/data.jpg)
+![image](https://github.com/ncfjd/SmokeBench/blob/main/sample.png)
 
 ---
 
 ### ⬇️ Dataset Download
 | Download Link | Description |
 |---------|------|
-| [Google Drive](https://drive.google.com/drive/folders/1TWIqyxPewjIzdtcO2Nuo0gSnlAzWCSSm?usp=drive_link) / [Baidu Netdisk](https://pan.baidu.com/s/1k-bEe7d_LHSUMNHr9_-9uA) (dlpu) | Tran: 41,402 pairs.    Test: 600 pairs. |
+| [Google Drive](https://drive.google.com/file/d/1NfusIRKwB9el2TpD2xYMOB1fIxPf8PW8/view?usp=drive_link) / [Baidu Netdisk]( https://pan.baidu.com/s/15mE9RGq8PgkD5WVlidSvfw) (refs)  | Tran: 9,875 pairs.    Test: 100 pairs. |
 
 ---
 
@@ -82,4 +77,4 @@ We provide evaluation code ([Python Code](https://github.com/guanqiyuan/WeatherB
 ---
 
 ## 📧 Contact
-If you have any questions, please feel free to contact qyuanguan@gmail.com or csqianfengyang@163.com.
+If you have any questions, please feel free to contact chenxiang@njust.edu.cn or csqianfengyang@163.com.

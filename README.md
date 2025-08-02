@@ -26,7 +26,7 @@
 
 ---
 
-## 🔎 Illustration of the WeatherBench
+## 🔎 Illustration of the SmokeBench
 ![image](https://github.com/ncfjd/SmokeBench/blob/main/sample.png)
 
 ---
@@ -40,7 +40,7 @@
 
 
 ## 📘 Quantitative Results
-![image](https://github.com/ncfjd/SmokeBench/blob/main/Quantitative_Results.png)
+![image](https://github.com/ncfjd/SmokeBench/blob/main/quantitative_results.png)
 
 ---
 
@@ -53,21 +53,14 @@ We provide evaluation code ([Python Code](https://github.com/guanqiyuan/WeatherB
 > 
 | Method | Download Link |
 |---------|------|
-| DehazeFormer | [Google Drive](https://drive.google.com/file/d/1RuhlakyTOoMmryIQHQ2Nxn8unwyiqaA_/view?usp=drive_link) / [Baidu Netdisk](https://pan.baidu.com/s/1cV1-D58AMEfMdfHD67WHqg) (deha) |
-| DCMPNet | [Google Drive](https://drive.google.com/file/d/1mrwOc9dHz_bzgUhuPfTNiHzJCOOdbzEr/view?usp=drive_link) / [Baidu Netdisk](https://pan.baidu.com/s/1lBzuuNBbcOF6YZzV-15c5w) (dcmp) |
-| DRSformer | [Google Drive](https://drive.google.com/file/d/1_KKcxZu3o7xopwcSRdDMySDwhNJxVhlF/view?usp=drive_link) / [Baidu Netdisk](https://pan.baidu.com/s/1l1D7z310hSm-tshdat0__g) (drsf) |
-| NeRD-Rain | [Google Drive](https://drive.google.com/file/d/1dDMHOyX3M_Wej81Xe8oBZX7ZZpD_Nnqf/view?usp=drive_link) / [Baidu Netdisk](https://pan.baidu.com/s/1TEISi-iru9pDp_UpJ-K5Kg) (nerd) |
-| SnowFormer | [Google Drive](https://drive.google.com/file/d/1j6ldRL0dZgpOLTdC4cDOSpNj_JkMx-nj/view?usp=drive_link) / [Baidu Netdisk](https://pan.baidu.com/s/1XJXN0sky6Xe6WEOuni0n2g) (snof) |
-| MPRNet | [Google Drive](https://drive.google.com/file/d/1GRUXUNtDYYcpy4GSdZ1bqUibZ2HMe3PV/view?usp=drive_link) / [Baidu Netdisk](https://pan.baidu.com/s/1UOyDO-k4h5VyYC24nkCPEQ) (mprn) |
-| Restormer | [Google Drive](https://drive.google.com/file/d/1suoKuCahKECsA_u0rApJZrOtdGBMqJ6O/view?usp=drive_link) / [Baidu Netdisk](https://pan.baidu.com/s/1qOT1r0pr2JWdV5ptsoFgdw) (rest) |
-| AirNet | [Google Drive](https://drive.google.com/file/d/1Gu5Zzp61DLfOJzO2ZF1odqQkBVbDra42/view?usp=drive_link) / [Baidu Netdisk](https://pan.baidu.com/s/1YouRqNem3K-XtFBMkJnaOA) (airn) |
-| TransWeather | [Google Drive](https://drive.google.com/file/d/189BGlLQQWNzqf8aRunvIC_kPh5ZqGIkM/view?usp=drive_link) / [Baidu Netdisk](https://pan.baidu.com/s/19HEzydiYen7XK6cipCbI4A) (tran) |
-| PromptIR | [Google Drive](https://drive.google.com/file/d/1TtJlK2Bf_ZtlTzavSnyQa2E706xSf0zf/view?usp=drive_link) / [Baidu Netdisk](https://pan.baidu.com/s/1AxKpHAcM2UIE52Iad4CoSw) (prom) |
-| WGWS-Net | [Google Drive](https://drive.google.com/file/d/1IwrbeEJ92PXwefkh3swj_9Cg3OD9vhR1/view?usp=drive_link) / [Baidu Netdisk](https://pan.baidu.com/s/1fzkq2fTaYeitC02zlV6yZw) (wgws) |
-| DiffUIR | [Google Drive](https://drive.google.com/file/d/1RsjgN5zfHZtdJ5E9jkXAcNOQgdRb292I/view?usp=drive_link) / [Baidu Netdisk](https://pan.baidu.com/s/1UCngiy_WBLKNtOXWPupGqg) (diff) |
-| MWFormer | [Google Drive](https://drive.google.com/file/d/1Bac20_ffU9W54S36KlNDo0_pbfMpzzTQ/view?usp=drive_link) / [Baidu Netdisk](https://pan.baidu.com/s/1YoEKMUMnCOQhsn0HGUZLJg) (mwfo) |
-| Histoformer | [Google Drive](https://drive.google.com/file/d/1zSu1kEbOy9XpLOKiB59k8RZsys91UYp6/view?usp=drive_link) / [Baidu Netdisk](https://pan.baidu.com/s/1bPEbpyxbJ3hh_J2o6Bkr2Q) (hist) |
-| AdaIR | [Google Drive](https://drive.google.com/file/d/19wbuZDCWAR1RhtzsS7DsBFdqvYEczMhY/view?usp=drive_link) / [Baidu Netdisk](https://pan.baidu.com/s/1jWxwv36Gxz-EjJ-gbT3U5g) (adai) |
+| FFA-Net | [Google Drive](https://drive.google.com/file/d/1rCwL0bCst3kS_PuguN_r2ZP4HuN0o4S2/view?usp=sharing) / [Baidu Netdisk]( https://pan.baidu.com/s/1O_uIBhYeVLRsiNLGqeqpyg) (6666) |
+| MPRNet  | [Google Drive](https://drive.google.com/file/d/1CWhdCwojkxDOmM0Xwz7mwc56LuKcxmx_/view?usp=sharing) / [Baidu Netdisk](https://pan.baidu.com/s/1W7xnDL2Fq_Ch-zZyINglAQ) (6666) |
+| Restormer | [Google Drive](https://drive.google.com/file/d/1LrFfSMMDrjP67-F8E0wfZreaRLAtxOD6/view?usp=sharing) / [Baidu Netdisk](https://pan.baidu.com/s/1sCEOHKupxVRY_y8n7yzzZA) (6666) |
+| Uformer  | [Google Drive](https://drive.google.com/file/d/1l1JHRyU0K11UC8332SWFTnFXJpJ4mkcX/view?usp=sharing) / [Baidu Netdisk](https://pan.baidu.com/s/1HFGHgmM4kdyNzOJ0sD5ppw) (6666) |
+| DehazeFormer | [Google Drive](https://drive.google.com/file/d/1Eyeue81gZSfbhfeqzx0UGijSHi6kOvAs/view?usp=sharing) / [Baidu Netdisk](https://pan.baidu.com/s/1-0zYYGr2wGsPHDo1oYnFPg) (6666) |
+| MB-TaylorFormer | [Google Drive](https://drive.google.com/file/d/1Z-rxdkm6_zNCGOlZcQ2Og-d6rna6x35K/view?usp=sharing) / [Baidu Netdisk](https://pan.baidu.com/s/1EIwuOmGr_gDatUVqQD-3JA) (6666) |
+| X-Restormer  | [Google Drive](https://drive.google.com/file/d/1DjUzB_bpBDdkZMhzfHHBv0ESHM6HFuyE/view?usp=sharing) / [Baidu Netdisk](https://pan.baidu.com/s/14nixWy_N3IP_vdv5teks0Q) (6666) |
+| MambaIR  | [Google Drive](https://drive.google.com/file/d/1LDTg3-KUd1XYLh6yfcWvskmqQdBAVf8s/view?usp=sharing) / [Baidu Netdisk](https://pan.baidu.com/s/1bWt_kw0o-QimWPQWQG6Iyg) (6666) |
 
 ---
 

@@ -65,13 +65,16 @@ We provide evaluation code ([Python Code](https://github.com/ncfjd/SmokeBench/bl
 ---
 
 ## ❣ Citation
-`@article{jin2025smokebench,
+```
+@article{jin2025smokebench,
   title={SmokeBench: A Real-World Dataset for Surveillance Image Desmoking in Early-Stage Fire Scenes},
   author={Jin, Wenzhuo and Yang, Qianfeng and Wu, Xianhao and Chen, Hongming and Li, Pengpeng and Chen, Xiang},
   journal={arXiv preprint arXiv:2509.12701},
   year={2025}
-}`
+}
+```
 
+---
 ---
 
 ## 📧 Contact

@@ -10,6 +10,8 @@
 >
 > Beijing Jiaotong University<sup>1</sup>, Dalian Polytechnic University<sup>2</sup>, Nanjing University of Aeronautics and Astronautics<sup>3</sup>,  Dalian Martime University<sup>4</sup>, Nanjing University of Science and Technology<sup>5</sup>
 
+> [[Paper](https://arxiv.org/pdf/2509.12701)]
+
 
  **👉️ Welcome to visit our website (专注底层视觉领域的信息服务平台) for low-level vision:[https://lowlevelcv.com/](https://lowlevelcv.com/)**
 

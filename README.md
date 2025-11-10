@@ -1,5 +1,6 @@
 #  <center> 🔥 SmokeBench: A Real-World Dataset for Surveillance Image Desmoking in Early-Stage Fire Scenes  [ACM MM 2025 Datasets Track]
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ncfjd/SmokeBench)
+[![GitHub Stars](https://img.shields.io/github/stars/ncfjd/SmokeBench?style=social)](https://github.com/ncfjd/SmokeBench)
 <!-- 
 
 > [[Paper]()]

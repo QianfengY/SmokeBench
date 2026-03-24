@@ -18,18 +18,18 @@
 
 ---
 
-## ⛳️ To do
+### ⛳️ To do
 
 * ✔ Release the dataset
 * ✔ Release the visual results
 ---
 
-## :hammer: Dataset pipeline
+### :hammer: Dataset pipeline
 ![image](https://github.com/ncfjd/SmokeBench/blob/main/pipeline_diagram.png)
 
 ---
 
-## 🔎 Illustration of the SmokeBench
+### 🔎 Illustration of the SmokeBench
 ![image](https://github.com/ncfjd/SmokeBench/blob/main/sample.png)
 
 ---
@@ -42,12 +42,12 @@
 ---
 
 
-## 📘 Quantitative Results
+### 📘 Quantitative Results
 ![image](https://github.com/ncfjd/SmokeBench/blob/main/quantitative_results.png)
 
 ---
 
-## 📷️ Visual Results
+### 📷️ Visual Results
 
 We provide evaluation code ([Python Code](https://github.com/ncfjd/SmokeBench/blob/main/evaluation.py)) to assess PSNR, SSIM, and LPIPS results. You need to set the parameters `--generated_images_path`, `--target_path`, and `--Score_save_path`.
 
@@ -67,7 +67,7 @@ We provide evaluation code ([Python Code](https://github.com/ncfjd/SmokeBench/bl
 
 ---
 
-## ❣ Citation
+### ❣ Citation
 ```
 @article{jin2025smokebench,
   title={SmokeBench: A Real-World Dataset for Surveillance Image Desmoking in Early-Stage Fire Scenes},
@@ -79,5 +79,5 @@ We provide evaluation code ([Python Code](https://github.com/ncfjd/SmokeBench/bl
 
 ---
 
-## 📧 Contact
+### 📧 Contact
 If you have any questions, please feel free to contact csqianfengyang@163.com.

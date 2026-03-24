@@ -80,4 +80,4 @@ We provide evaluation code ([Python Code](https://github.com/ncfjd/SmokeBench/bl
 ---
 
 ## 📧 Contact
-If you have any questions, please feel free to contact chenxiang@njust.edu.cn or csqianfengyang@163.com.
+If you have any questions, please feel free to contact csqianfengyang@163.com.
